@@ -8,3 +8,5 @@ loc - Cuttack
 mob-889660000
 <br>
 Cricket
+<br>
+Gopalpur
